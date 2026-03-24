@@ -1,4 +1,4 @@
-# Insta-Bomber
+# Insta-Bomberhttps://github.com/preetmodh/Insta-Bomber.gitchethan_reddy_390
 This application uses selenium a python module to let user spam messages people on instagram any number of times.
 ## Requirements:
 * Flask installed
